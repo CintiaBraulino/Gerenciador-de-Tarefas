@@ -43,7 +43,7 @@ gerenciamento_tarefas/
 > ### 🔁 Passo-a-passo para fazer a clonagem do projeto (repositório)
 ```bash
 # Comando para fazer a clonagem do repositório:
-$ git clone https://github.com/heitordiasdev/Ingredientes-em-Foco.git
+$ git clone https://github.com/CintiaBraulino/Gerenciador-de-Tarefas
 
 # Acesse a pasta do projeto:
 $ cd gerenciamento_tarefas
@@ -70,12 +70,14 @@ $ python -m unittest discover -s tests
       <a href="https://github.com/CintiaBraulino">
         <img src="https://avatars.githubusercontent.com/CintiaBraulino" width=100 />
         <p>Cintia <br/>Braulino</p>
+        <h3>Desenvolvedor/QA</h3>
       </a>
     </td>
     <td>
       <a href="https://github.com/Simonebraulino">
         <img src="https://avatars.githubusercontent.com/Simonebraulino" width=100 />
         <p>Simone <br/>Braulino</p>
+        <h3>Analista de Requisitos/Desenvolvedor</h3>
       </a>
     </td>
   </tr>
