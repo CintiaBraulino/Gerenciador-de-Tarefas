@@ -70,14 +70,14 @@ $ python -m unittest discover -s tests
       <a href="https://github.com/CintiaBraulino">
         <img src="https://avatars.githubusercontent.com/CintiaBraulino" width=100 />
         <p>Cintia <br/>Braulino</p>
-        <h3>Desenvolvedor/QA</h3>
+        <h1>Desenvolvedor/QA</h1>
       </a>
     </td>
     <td>
       <a href="https://github.com/Simonebraulino">
         <img src="https://avatars.githubusercontent.com/Simonebraulino" width=100 />
         <p>Simone <br/>Braulino</p>
-        <h3>Analista de Requisitos/Desenvolvedor</h3>
+        <h1>Analista de Requisitos/Desenvolvedor</h1>
       </a>
     </td>
   </tr>
