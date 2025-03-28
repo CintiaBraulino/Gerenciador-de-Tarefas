@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35826.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GerenciadorDeTarefas", "GerenciadorDeTarefas\GerenciadorDeTarefas.pyproj", "{FD41724C-95CB-4EE5-A8F2-3090AEA8A6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD41724C-95CB-4EE5-A8F2-3090AEA8A6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD41724C-95CB-4EE5-A8F2-3090AEA8A6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F43E2CB-5494-4732-A578-233E5C91F8AB}
+	EndGlobalSection
+EndGlobal
